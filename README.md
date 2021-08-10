@@ -1,3 +1,5 @@
 # Qt5_Advanced_2.14_Networking_SSLServerCreatingServer
 
-#SourceCode to be added soon
+#Under Networking, SSLServerCreatingServer discussed and
+
+#SourceCode added 
